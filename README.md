@@ -1,5 +1,5 @@
 - 👋 whaddup! im goosbn
--  im interested in TF2 and ULTRAKILL.
+-  im interested in both ps5 spiderman games and jackbox 5.
 -  im currently learning nothing except from school. 👍
 -  im looking to collaborate on nothing, really; i got everything i need.💀
 -  you can reach me on discord by like gooooooooooooooooooos or sumn lol
