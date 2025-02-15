@@ -1,12 +1,10 @@
-  
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "help ukraine")
-
 
 <div align="center">
+    [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "help ukraine")
   
 [![zel](https://images.cooltext.com/5723810.gif)](https://www.youtube.com/channel/UCiKxNvMHAShqT2lATxGWg)
 
-      
+
    <details>
   <summary>
 
@@ -17,3 +15,4 @@
 [![Octo Ring Logo](https://octo-ring.com/static/img/octo.png)](https://octo-ring.com "octo ring logo") <-- Thanks octo ring (click the octopus to go to their webpage)
     </details>
 
+   
