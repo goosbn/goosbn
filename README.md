@@ -1,12 +1,10 @@
   
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "help ukraine")
 
-> [!CAUTION]
-> :trollface: Incompetent programmer alert :trollface:
 
 <div align="center">
   
-[![welcome](https://images.cooltext.com/5720971.png)](https://github.com/1upfunniguy/ "welcome")
+[![zel](https://images.cooltext.com/5723810.gif)](https://www.youtube.com/channel/UCiKxNvMHAShqT2lATxGWg)/ "z e l t r o n")
   
 [![Typed Text](https://readme-typing-svg.demolab.com?width=435&lines=Wsp+I'm+1up;I+like+coding%2C+gaming%2C+making+videos%2C+streaming+and+other+stuff.&font=Helvetica-Bold&center=true&width=700&height=45&color=763FF7&vCenter=true&pause=1000&size=15)](https://readme-typing-svg.demolab.com "typing thingy")
 
