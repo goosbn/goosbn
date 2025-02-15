@@ -2,7 +2,7 @@
 <div align="center">
 
 
-[![zel](https://images.cooltext.com/5723810.gif)](https://www.youtube.com/channel/UCiKxNvMHAShqT2lATxGWg)
+[![zel](https://images.cooltext.com/5723810.gif)](https://www.youtube.com/channel/UCiKxNv_MHAShqT2lATxG_Wg)
 
 </div>
    <details>
