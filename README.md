@@ -24,10 +24,10 @@
 ▒▒▒░░░░░░░░░░▄▐░░░░
 ▒░░░░░░▄▄▄░░▄██▄░░░
 ░░░░░░▐▀█▀▌░░░░▀█▄░
-         ░░░░░░▐█▄█▌░░░░░░▀█▄             Silas the Skeleton says hi!
+         ░░░░░░▐█▄█▌░░░░░░▀█▄                        Silas the Skeleton says hi!
 ░░░░░░░▀▄▀░░░▄▄▄▄▄▀▀
-      ░░░░░▄▄▄██▀▀▀▀░░░░░         Add Silas to your profile to help him 
-        ░░░░█▀▄▄▄█░▀▀░░░░░░                  travel across GitHub!
+      ░░░░░▄▄▄██▀▀▀▀░░░░░                     Add Silas to your profile to help him 
+        ░░░░█▀▄▄▄█░▀▀░░░░░░                           travel across GitHub!
 ░░░░▌░▄▄▄▐▌▀▀▀░░░░░
 ░▄░▐░░░▄▄░█░▀▀░░░░░
 ░▀█▌░░░▄░▀█▀░▀░░░░░
