@@ -1,5 +1,6 @@
-#goosbn, he who creates
-![Alt text](../pookie.png "pookie")
+
+goosbn, he who creates
+
 
 ```SILAS THE GYATT FANUM TAXER 🐗🤯
 ▒▒▒░░░░░░░░░░▄▐░░░░
