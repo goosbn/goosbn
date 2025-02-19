@@ -1,6 +1,6 @@
 
 <div align="center">
-
+ long bios are stupid
 
 [![zel](https://images.cooltext.com/5723810.gif)](https://www.youtube.com/channel/UCiKxNv_MHAShqT2lATxG_Wg)
 
